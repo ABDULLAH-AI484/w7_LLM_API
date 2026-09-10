@@ -1,0 +1,10 @@
+[
+  {"text":"I was charged twice for my monthly plan.","category":"billing"},
+  {"text":"Please refund the invoice from yesterday.","category":"billing"},
+  {"text":"The dashboard crashes every time I open it.","category":"bug"},
+  {"text":"I cannot log in after resetting my password.","category":"bug"},
+  {"text":"Could you add dark mode to the app?","category":"feature"},
+  {"text":"We would like a request for custom export fields.","category":"feature"},
+  {"text":"I have a thought about the product but I am not sure what it is.","category":"other"},
+  {"text":"Hello, I need help with something.","category":"other"}
+]

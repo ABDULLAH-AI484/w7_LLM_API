@@ -1,0 +1,9 @@
+{"timestamp": "2026-09-10T18:34:46.672382+00:00", "prompt_version": "triage-v1", "model": "openrouter/free", "input_tokens": 402, "output_tokens": 98, "duration_ms": 20246, "repair_count": 0}
+{"timestamp": "2026-09-10T18:35:25.640936+00:00", "prompt_version": "triage-v1", "model": "openrouter/free", "input_tokens": 446, "output_tokens": 726, "duration_ms": 8146, "repair_count": 1}
+{"timestamp": "2026-09-10T18:35:30.242114+00:00", "prompt_version": "triage-v1", "model": "openrouter/free", "input_tokens": 418, "output_tokens": 612, "duration_ms": 3995, "repair_count": 0}
+{"timestamp": "2026-09-10T18:35:35.185506+00:00", "prompt_version": "triage-v1", "model": "openrouter/free", "input_tokens": 411, "output_tokens": 36, "duration_ms": 4216, "repair_count": 0}
+{"timestamp": "2026-09-10T18:35:40.526692+00:00", "prompt_version": "triage-v1", "model": "openrouter/free", "input_tokens": 444, "output_tokens": 359, "duration_ms": 1946, "repair_count": 1}
+{"timestamp": "2026-09-10T18:35:48.148360+00:00", "prompt_version": "triage-v1", "model": "openrouter/free", "input_tokens": 463, "output_tokens": 93, "duration_ms": 1137, "repair_count": 1}
+{"timestamp": "2026-09-10T18:35:52.075235+00:00", "prompt_version": "triage-v1", "model": "openrouter/free", "input_tokens": 406, "output_tokens": 59, "duration_ms": 3353, "repair_count": 0}
+{"timestamp": "2026-09-10T18:36:00.875686+00:00", "prompt_version": "triage-v1", "model": "openrouter/free", "input_tokens": 401, "output_tokens": 155, "duration_ms": 8289, "repair_count": 0}
+{"timestamp": "2026-09-10T18:36:03.039880+00:00", "prompt_version": "triage-v1", "model": "openrouter/free", "input_tokens": 422, "output_tokens": 31, "duration_ms": 1659, "repair_count": 0}
