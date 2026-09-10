@@ -35,7 +35,8 @@ curl -s -X POST http://127.0.0.1:8000/triage \
 
 It returns HTTP 422 and a validation detail naming `text`. FastAPI uses 422 for request-schema validation; the model-output failure path uses the assignment-required 422 as well.
 
-![Uploading image.png…]()
+<img width="1597" height="980" alt="image" src="https://github.com/user-attachments/assets/5144cffe-2925-4b08-98df-61fee0e2cc57" />
+
 
 
 ## Job card
